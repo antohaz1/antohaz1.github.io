@@ -1,0 +1,206 @@
+
+  .button1{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1400px;
+    margin-top: -45px;
+  }
+  .button2{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1600px;
+   margin-top: -45px;
+  }
+  .button4{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1480px;
+   margin-top: -50px;
+  }
+  .button5{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1600px;
+   margin-top: -50px;
+  }
+  .button6{
+    border: none;
+    background-color: black;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 1501px;
+   margin-top: -45px;
+
+  }
+  .a45{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+
+  }
+
+.a44{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+.a43{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-decoration: none;
+}
+
+  .linia{
+    margin-top: 525px;
+  }
+  
+form{
+  margin-left: 1100px;
+  width: 400px;
+  margin-top: -120px;
+}
+input[type="text"] {
+  width: 40%; 
+  font-size: 20px; 
+}
+button[type="submit"] {
+  font-size: 20px; 
+}
+.zagolovok{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 180px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.p111{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    padding-left: 180px;
+    margin-top: -23px;
+    font-size: 15px;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 14px;
+}
+.p12{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 180px;
+    font-size: 28px;
+    margin-top: 12px;
+}
+.p13{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 180px;
+}
+.p4{
+    border: none;
+    text-decoration: none;
+    color: green;
+    
+    margin-left: 180px;
+}
+.rubls{
+    border: none;
+    margin-bottom: -18px;
+    margin-left: 330px;
+}
+.p00{
+   
+    border: none;
+    text-decoration: none;
+    color: green;
+    margin-left: 403px;
+    display: block;
+    margin-top: -17px;
+}
+.p01{
+   
+    border: none;
+    text-decoration: none;
+    color: green;
+    margin-left: 503px;
+    display: block;
+    margin-top: -17px;
+}
+.p15{
+ 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 1100px;
+  margin-top: 20px;
+}
+.p16{
+  text-decoration: none;
+  color: green;
+  margin-left: 1100px;
+}
+.p20{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 1100px;
+  margin-top: 10px;
+}
+.p21{
+  border: none;
+  text-decoration: none;
+  color: green;
+  margin-left: 1100px;
+    display: block;
+    margin-top: -2px;
+}
+.p25{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 1100px;
+}
+.p23{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 1100px;
+}
+.p24{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 1100px;
+}
+.p30{
+  margin-left: 1100px;
+  border: none;
+  text-decoration: none;
+  color: green;
+}
+.p22{
+  border: none;
+  text-decoration: none;
+  color: green;
+  margin-left: 1100px;
+}
+.p28{
+  border: none;
+  text-decoration: none;
+  color: green;
+  margin-left: 1100px;
+  margin-top: -10px;
+}
+.p29{
+  border: none;
+  text-decoration: none;
+  color: green;
+  margin-left: 1100px;
+}
+#map{
+  margin-top: 20px;
+}
+.p325{
+font-family:Verdana, Geneva, Tahoma, sans-serif ;
+font-size: 25px;
+margin-left: 500px;
+}
+.p326{
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  font-size: 13px;
+}
+
